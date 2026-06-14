@@ -181,9 +181,9 @@ Node.js        ████████████████████ 75%
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhijith-kuvo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-kuvo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithAravindakshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=Abhijith-kuvo&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=AbhijithAravindakshan&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff" width="49%"/>
 
 </div>
 
@@ -193,7 +193,7 @@ Node.js        ████████████████████ 75%
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abhijith-kuvo&theme=tokyonight&no-frame=true&column=6&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbhijithAravindakshan&theme=tokyonight&no-frame=true&column=6&margin-w=10)
 
 </div>
 
@@ -201,7 +201,7 @@ Node.js        ████████████████████ 75%
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhijith-kuvo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=7c3aed&point=00ff88)](https://github.com/Abhijith-kuvo)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhijithAravindakshan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=7c3aed&point=00ff88)](https://github.com/Abhijith-kuvo)
 
 ---
 
