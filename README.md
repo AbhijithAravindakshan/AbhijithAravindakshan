@@ -180,7 +180,7 @@ Node.js        ████████████████████ 75%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhijith-kuvo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhijithAravindakshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7c3aed&text_color=ffffff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-kuvo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=Abhijith-kuvo&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=7c3aed&currStreakLabel=00f5ff" width="49%"/>
